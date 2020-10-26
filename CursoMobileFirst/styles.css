@@ -232,9 +232,9 @@ main {
 
 /* Tabla de comisiones */
 
-/* .main-feeds-table {
+.main-feeds-table {
     display: none;
-} */
+}
 .main-feeds-table {
     width: 70%;
     min-width: 235px;
